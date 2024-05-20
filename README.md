@@ -11,6 +11,8 @@ Configurar VirtualBox para establecer una red de área local (LAN) en la que se 
 
 Investiga sobre los siguientes tipos de red que permite establecer VirtualBox:
 “Falta o esquema que ejemplifique o seu funcionamiento”
+
+
  ● NAT: 
 
 Network Address Translation (NAT):Proceso que traduce las direcciones IP y puerto cuando el paquete se dirige a través del router o firewall.
