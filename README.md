@@ -17,6 +17,7 @@ Investiga sobre los siguientes tipos de red que permite establecer VirtualBox:
 Network Address Translation (NAT):Proceso que traduce las direcciones IP y puerto cuando el paquete se dirige a través del router o firewall.
 
 
+![image](https://github.com/Nardo104/Traballo_Redes/assets/164507058/beef8f77-e12c-4a16-ad63-42d145922418)
 
 
 
@@ -26,10 +27,16 @@ Network Address Translation (NAT):Proceso que traduce las direcciones IP y puert
 Adaptador Puente: El que hace que la máquina virtual sea conectada a la misma red que el anfitrión,entonces la MV se comportará como si fuera un PC más conectado a la red real. Este nos permite conectar entre MV, desde el anfitrión y a Internet bidireccionalmente.
 
 
+![image](https://github.com/Nardo104/Traballo_Redes/assets/164507058/9cde1bc9-aeaf-44bb-86bb-2585d0827810)
+
+
+
 ● Red interna.
 
 Red Interna: Forma de conectar varias MV entre ellas mismas, creando una red privada y de esta forma las máquinas virtuales no podrán comunicarse con el anfitrión ni viceversa.
 
+
+![image](https://github.com/Nardo104/Traballo_Redes/assets/164507058/9d0b5173-0557-47a4-ac1f-8761a7c7cf87)
 
 
 ● Red NAT.
@@ -37,6 +44,7 @@ Red Interna: Forma de conectar varias MV entre ellas mismas, creando una red pri
 Red NAT: Red que creará VirtualBox donde permite compartir esta red con varias MV de este mismo anfitrión. Asimismo, VB en este tipo de red proporciona una puerta de enlace con salida a internet en la dirección de host número 1 de la red.
 
 
+![image](https://github.com/Nardo104/Traballo_Redes/assets/164507058/06ce15b8-6c71-46bb-9f20-a5a461c78889)
 
 
 
