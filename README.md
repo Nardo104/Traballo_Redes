@@ -88,6 +88,11 @@ Se pide:
 
 ● Representar gráficamente la red (mapa lógico de red), donde se indique la dirección IP y máscara de subred de cada host. 
 
+
+![image](https://github.com/Nardo104/Traballo_Redes/assets/164507058/c5a12ed9-08dc-4de9-a3ac-78b9489172d8)
+
+
+
 ● Enumera el listado de dispositivos (sólo electrónica de red) y medios de transmisión (cableado) necesarios para completar la instalación de la red. Indica: marca y modelo de cada dispositivo, tipo de cable utilizado, metros totales del cable utilizados, conectores RJ45 necesarios. 
 
 ● Realiza un presupuesto para todo el listado de dispositivos y medios de transmisión del punto anterior. Este presupuesto no incluirá el coste de mano de obra de la instalación y configuración de la red. Se incluirán las cantidades con y sin IVA para cada una de las líneas del presupuesto. El coste total indicará la cantidad con y sin IVA.
