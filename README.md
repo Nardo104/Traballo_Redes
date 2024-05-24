@@ -53,10 +53,14 @@ Red NAT: Red que creará VirtualBox donde permite compartir esta red con varias 
 Red Interna ya que permite conectar las dos máquinas virtuales sin conexión a internet (Esta explicación non creo que sirva).
 
 
+![image](https://github.com/Nardo104/Traballo_Redes/assets/164507058/b8ffa6fe-2693-455f-9f7b-ea74177cd3df)
+
+
+![image](https://github.com/Nardo104/Traballo_Redes/assets/164507058/6924d275-8928-474d-8bce-d03d0817af6d)
 
 
 
-
+![image](https://github.com/Nardo104/Traballo_Redes/assets/164507058/498e52a9-925f-4605-8bf9-e06258d5905b)
 
 
 
