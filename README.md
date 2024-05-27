@@ -94,6 +94,37 @@ Se pide:
 
 ● Enumera el listado de dispositivos (sólo electrónica de red) y medios de transmisión (cableado) necesarios para completar la instalación de la red. Indica: marca y modelo de cada dispositivo, tipo de cable utilizado, metros totales del cable utilizados, conectores RJ45 necesarios. 
 
+
+Ordenadores:
+	Torre: PC HP Slim S01-aF2001ns sin sistema operativo con 3 años de garantía. 219,00€
+	Pantalla: Monitor HP V22ve de 54,5 cm (21,45" ). 129,00€
+
+	Teclado Y Ratón: Combo de teclado y ratón inalámbricos HP 230. 39,99€
+
+	Telefono: Móvil - Xiaomi Redmi A2, Azul, 32 GB, 2 GB RAM, 6.52" HD+ Dot Drop Display, MediaTek Helio G36, 5000 mAh, Android 69€ x7=438.0€
+sin iva 54,51 x7=
+
+	Tablet: Tablet Blackview Tab 50 Wifi | 8 GB (4GB+4GB) RAM 128 GB ROM 79,99€ x 2=159.98€
+sin iva 63,19 x 2=126,38€
+
+SmartTV: TD SYSTEMS
+Televisor 32 Pulgadas HD, USB Grabador reproductor, Sintonizador digital DVB-T2/C/S2 - TD Systems PRIME32C19H= 109.00€
+
+
+
+	Router: Router WiFi - TP-Link Archer C6, 1200 Mbps, Doble Banda, MU-MIMO, Beamforming, Gigabit, WPS, WPA3. 42,99€
+ 
+
+	Switch:Switch - TP-Link TL-SG108, 8 puertos RJ-45, Gigabit Ethernet (10/100/1000), Negro 22,90€ x9=206,1 
+ 
+
+	Cable: Cable de red - ISY IPC-6015-1, Cat-6, S/FTP, 1.5 m, 10 Gbit / s, 250 MHz, Blanco 2,99€
+ 
+
+	cable2:Cable de red - ISY IPC-6100-1, Cat-6, 10 Gbit / s, 250 MHz, 10 m, Blanco 12,99€
+
+
+
 ● Realiza un presupuesto para todo el listado de dispositivos y medios de transmisión del punto anterior. Este presupuesto no incluirá el coste de mano de obra de la instalación y configuración de la red. Se incluirán las cantidades con y sin IVA para cada una de las líneas del presupuesto. El coste total indicará la cantidad con y sin IVA.
 
 
