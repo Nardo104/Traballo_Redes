@@ -129,12 +129,12 @@ Ordenadores:
 
 
 
-+Ordenadores: 9.195,36€ (Sin IVA) 11.639,70€  (Con IVA)
-+Móviles:  381,57€(Sin IVA)  438.0€ (Con IVA)
-+Tablets:  126,38€(Sin IVA) 159.98€(Con IVA)
-+SmartTV:  86,11€(Sin IVA) 109.00€(Con IVA)
-+Router: 33,96€(Sin IVA)  42,99€(Con IVA)
-+Switch: 162,81€(Sin IVA)  206,1€(Con IVA)
++ Ordenadores: 9.195,36€ (Sin IVA) 11.639,70€  (Con IVA)
++ Móviles:  381,57€(Sin IVA)  438.0€ (Con IVA)
++ Tablets:  126,38€(Sin IVA) 159.98€(Con IVA)
++ SmartTV:  86,11€(Sin IVA) 109.00€(Con IVA)
++ Router: 33,96€(Sin IVA)  42,99€(Con IVA)
++ Switch: 162,81€(Sin IVA)  206,1€(Con IVA)
 
 
 
