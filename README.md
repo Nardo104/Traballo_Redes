@@ -88,25 +88,17 @@ Se comprobó en ambas maquinas de que funcionara la comunicacion (1 Windows y 1 
 
 
 **Listado:**
-	30 x Torre: PC HP Slim S01-aF2001ns sin sistema operativo con 3 años de garantía. 219,00€
-
-	30 x Pantalla: Monitor HP V22ve de 54,5 cm (21,45" ). 129,00€
-
-	30 x Teclado Y Ratón: Combo de teclado y ratón inalámbricos HP 230. 39,99€
-
-	7 x Telefono: Móvil - Xiaomi Redmi A2, Azul, 32 GB, 2 GB RAM, 6.52" HD+ Dot Drop Display, MediaTek Helio G36, 5000 mAh, Android 69€ 
-
-	2 x Tablet: Tablet Blackview Tab 50 Wifi | 8 GB (4GB+4GB) RAM 128 GB ROM 79,99€
-
-	1 x SmartTV: TD SYSTEMS Televisor 32 Pulgadas HD, USB Grabador reproductor, Sintonizador digital DVB-T2/C/S2 - TD Systems PRIME32C19H= 109.00€
-
-	1 x Router: Router WiFi - TP-Link Archer C6, 1200 Mbps, Doble Banda, MU-MIMO, Beamforming, Gigabit, WPS, WPA3. 42,99€
-
-	9 x Switch:Switch - TP-Link TL-SG108, 8 puertos RJ-45, Gigabit Ethernet (10/100/1000), Negro 22,90€ 
- 
-	30 x Cable: Cable de red - ISY IPC-6015-1, Cat-6, S/FTP, 1.5 m, 10 Gbit / s, 250 MHz, Blanco 2,99€
-
-	15 x cable2:Cable de red - ISY IPC-6100-1, Cat-6, 10 Gbit / s, 250 MHz, 10 m, Blanco 12,99€
+	
+ + 30 x Torre: PC HP Slim S01-aF2001ns sin sistema operativo con 3 años de garantía. 219,00€
+ + 30 x Pantalla: Monitor HP V22ve de 54,5 cm (21,45" ). 129,00€
+ + 30 x Teclado Y Ratón: Combo de teclado y ratón inalámbricos HP 230. 39,99€
+ + 7 x Telefono: Móvil - Xiaomi Redmi A2, Azul, 32 GB, 2 GB RAM, 6.52" HD+ Dot Drop Display, MediaTek Helio G36, 5000 mAh, Android 69€ 
+ + 2 x Tablet: Tablet Blackview Tab 50 Wifi | 8 GB (4GB+4GB) RAM 128 GB ROM 79,99€
+ + 1 x SmartTV: TD SYSTEMS Televisor 32 Pulgadas HD, USB Grabador reproductor, Sintonizador digital DVB-T2/C/S2 - TD Systems PRIME32C19H= 109.00€
+ + 1 x Router: Router WiFi - TP-Link Archer C6, 1200 Mbps, Doble Banda, MU-MIMO, Beamforming, Gigabit, WPS, WPA3. 42,99€
+ + 9 x Switch:Switch - TP-Link TL-SG108, 8 puertos RJ-45, Gigabit Ethernet (10/100/1000), Negro 22,90€ 
+ + 30 x Cable: Cable de red - ISY IPC-6015-1, Cat-6, S/FTP, 1.5 m, 10 Gbit / s, 250 MHz, Blanco 2,99€
+ + 15 x cable2:Cable de red - ISY IPC-6100-1, Cat-6, 10 Gbit / s, 250 MHz, 10 m, Blanco 12,99€
 
 
 
@@ -122,7 +114,8 @@ Se comprobó en ambas maquinas de que funcionara la comunicacion (1 Windows y 1 
 + Switch: 162,81€(Sin IVA)  206,1€(Con IVA)
 + Cable 1m: 70,86€(Sin IVA)  89,7€(Con IVA)
 + Cable 10m: 153,9€(Sin IVA)  194,85€(Con IVA)
-+ **COSTE TOTAL= 10.210,95€(Sin IVA)  12.879,92€(Con IVA)**
+
+ **COSTE TOTAL= 10.210,95€(Sin IVA)  12.879,92€(Con IVA)**
 
 
 
