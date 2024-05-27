@@ -87,7 +87,8 @@ Se pide:
 ● Representar gráficamente la red (mapa lógico de red), donde se indique la dirección IP y máscara de subred de cada host. 
 
 
-![image](https://github.com/Nardo104/Traballo_Redes/assets/164507058/c5a12ed9-08dc-4de9-a3ac-78b9489172d8)
+![image](https://github.com/Nardo104/Traballo_Redes/assets/164192169/84c51ff3-52b2-4c28-9eba-c208da55d1d8)
+
 
 
 
