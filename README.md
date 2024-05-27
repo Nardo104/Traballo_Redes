@@ -48,8 +48,7 @@ Red NAT: Red que creará VirtualBox donde permite compartir esta red con varias 
 
 
 
- Para cada uno de ellos, explícalo brevemente y aporta un esquema que ejemplifica su funcionamiento. Selecciona y configura el tipo de red que te permite conectar dos máquinas virtuales bajo una misma red LAN, aisladas del exterior. No deben tener acceso a Internet. Justifica que ambas máquinas pueden comunicarse entre ellas. Documenta todo el proceso y aporta las capturas de pantalla necesarias: 
-Red Interna ya que permite conectar las dos máquinas virtuales sin conexión a internet (Esta explicación non creo que sirva).
+ Para cada uno de ellos, explícalo brevemente y aporta un esquema que ejemplifica su funcionamiento. Selecciona y configura el tipo de red que te permite conectar dos máquinas virtuales bajo una misma red LAN, aisladas del exterior. No deben tener acceso a Internet. Justifica que ambas máquinas pueden comunicarse entre ellas. Documenta todo el proceso y aporta las capturas de pantalla necesarias.
 
 
 ![image](https://github.com/Nardo104/Traballo_Redes/assets/164507058/3c5769a7-56b6-4b72-b83c-6a0a1bc78e71)
@@ -67,7 +66,11 @@ Red Interna ya que permite conectar las dos máquinas virtuales sin conexión a 
 
 
 
-Todo esto sería a conexión de red interna
+Se utilizara la Red Interna ya que permite conectar las dos máquinas virtuales sin conexión a internet. 
+
+Para crearlos se utilizo una mascara de red tipo C, luego comando *ping* y la IP de la Maquina a la cual nos queremos contactar para que estas mismas se comuniquen.
+
+Se comprobó en ambas maquinas de que funcionara la comunicacion (1 Windows y 1 Ubuntu)
 
 
 
@@ -95,7 +98,7 @@ Se pide:
 ● Enumera el listado de dispositivos (sólo electrónica de red) y medios de transmisión (cableado) necesarios para completar la instalación de la red. Indica: marca y modelo de cada dispositivo, tipo de cable utilizado, metros totales del cable utilizados, conectores RJ45 necesarios. 
 
 
-Ordenadores:
+**Ordenadores:**
 	30 x Torre: PC HP Slim S01-aF2001ns sin sistema operativo con 3 años de garantía. 219,00€
 
  
@@ -137,7 +140,7 @@ Ordenadores:
 + Switch: 162,81€(Sin IVA)  206,1€(Con IVA)
 + Cable 1m: 70,86€(Sin IVA)  89,7€(Con IVA)
 + Cable 10m: 153,9€(Sin IVA)  194,85€(Con IVA)
-+ ** COSTE TOTAL= 10.210,95€(Sin IVA)  12.879,92€(Con IVA)
++ **COSTE TOTAL= 10.210,95€(Sin IVA)  12.879,92€(Con IVA)**
 
 
 
