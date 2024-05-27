@@ -59,12 +59,10 @@ Red Interna ya que permite conectar las dos máquinas virtuales sin conexión a 
 ![image](https://github.com/Nardo104/Traballo_Redes/assets/164507058/bbf9f7b6-aa20-4cb8-97ee-39fdf8d572a9)
 
 
-
-![image](https://github.com/Nardo104/Traballo_Redes/assets/164507058/6924d275-8928-474d-8bce-d03d0817af6d)
-
+![image](https://github.com/Nardo104/Traballo_Redes/assets/164507058/57cfa7f1-2876-46d8-95a6-4c912e1036cf)
 
 
-![image](https://github.com/Nardo104/Traballo_Redes/assets/164507058/498e52a9-925f-4605-8bf9-e06258d5905b)
+![image](https://github.com/Nardo104/Traballo_Redes/assets/164507058/2f6db74f-6e5a-459f-9bfa-927dc43d6aa3)
 
 
 
