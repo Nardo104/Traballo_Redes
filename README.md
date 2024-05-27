@@ -96,32 +96,32 @@ Se pide:
 
 
 Ordenadores:
-	Torre: PC HP Slim S01-aF2001ns sin sistema operativo con 3 años de garantía. 219,00€
+	30 x Torre: PC HP Slim S01-aF2001ns sin sistema operativo con 3 años de garantía. 219,00€
 
  
-	Pantalla: Monitor HP V22ve de 54,5 cm (21,45" ). 129,00€
+	30 x Pantalla: Monitor HP V22ve de 54,5 cm (21,45" ). 129,00€
 
-	Teclado Y Ratón: Combo de teclado y ratón inalámbricos HP 230. 39,99€
+	30 x Teclado Y Ratón: Combo de teclado y ratón inalámbricos HP 230. 39,99€
 
-	Telefono: Móvil - Xiaomi Redmi A2, Azul, 32 GB, 2 GB RAM, 6.52" HD+ Dot Drop Display, MediaTek Helio G36, 5000 mAh, Android 69€ 
+	7 x Telefono: Móvil - Xiaomi Redmi A2, Azul, 32 GB, 2 GB RAM, 6.52" HD+ Dot Drop Display, MediaTek Helio G36, 5000 mAh, Android 69€ 
 
-	Tablet: Tablet Blackview Tab 50 Wifi | 8 GB (4GB+4GB) RAM 128 GB ROM 79,99€
-
-
-	SmartTV: TD SYSTEMS Televisor 32 Pulgadas HD, USB Grabador reproductor, Sintonizador digital DVB-T2/C/S2 - TD Systems PRIME32C19H= 109.00€
+	2 x Tablet: Tablet Blackview Tab 50 Wifi | 8 GB (4GB+4GB) RAM 128 GB ROM 79,99€
 
 
+	1 x SmartTV: TD SYSTEMS Televisor 32 Pulgadas HD, USB Grabador reproductor, Sintonizador digital DVB-T2/C/S2 - TD Systems PRIME32C19H= 109.00€
 
-	Router: Router WiFi - TP-Link Archer C6, 1200 Mbps, Doble Banda, MU-MIMO, Beamforming, Gigabit, WPS, WPA3. 42,99€
+
+
+	1 x Router: Router WiFi - TP-Link Archer C6, 1200 Mbps, Doble Banda, MU-MIMO, Beamforming, Gigabit, WPS, WPA3. 42,99€
  
 
-	Switch:Switch - TP-Link TL-SG108, 8 puertos RJ-45, Gigabit Ethernet (10/100/1000), Negro 22,90€ 
+	9 x Switch:Switch - TP-Link TL-SG108, 8 puertos RJ-45, Gigabit Ethernet (10/100/1000), Negro 22,90€ 
  
 
-	Cable: Cable de red - ISY IPC-6015-1, Cat-6, S/FTP, 1.5 m, 10 Gbit / s, 250 MHz, Blanco 2,99€
+	30 x Cable: Cable de red - ISY IPC-6015-1, Cat-6, S/FTP, 1.5 m, 10 Gbit / s, 250 MHz, Blanco 2,99€
  
 
-	cable2:Cable de red - ISY IPC-6100-1, Cat-6, 10 Gbit / s, 250 MHz, 10 m, Blanco 12,99€
+	15 x cable2:Cable de red - ISY IPC-6100-1, Cat-6, 10 Gbit / s, 250 MHz, 10 m, Blanco 12,99€
 
 
 
