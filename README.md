@@ -137,7 +137,7 @@ Ordenadores:
 + Switch: 162,81€(Sin IVA)  206,1€(Con IVA)
 + Cable 1m: 70,86€(Sin IVA)  89,7€(Con IVA)
 + Cable 10m: 153,9€(Sin IVA)  194,85€(Con IVA)
-+ COSTE TOTAL= 10.210,95€(Sin IVA)  12.879,92€(Con IVA)
++ ** COSTE TOTAL= 10.210,95€(Sin IVA)  12.879,92€(Con IVA)
 
 
 
